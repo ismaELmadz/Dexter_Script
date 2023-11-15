@@ -11,7 +11,7 @@ A='ismael.hashi-rama.com'
 LOOP_DELAY=5
 
 ## Add your DNS here
-declare -a HOSTS=('112.198.126.124' '112.198.126.116' '112.198.126.44')
+declare -a HOSTS=('112.198.115.44' '112.198.126.116' '112.198.126.44')
 
 ## Linux' dig command executable filepath
 ## Select value: "CUSTOM|C" or "DEFAULT|D"
